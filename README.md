@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2eheight=100&section=header"/>
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=100&section=header"/> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:b8e27f&height=100&section=header"/>
 </p>
 
 <picture>
@@ -81,5 +82,6 @@ Competed in the **Egyptian Collegiate Programming Contest (ECPC)** and working t
 [![Download CV](https://img.shields.io/badge/View%20My%20CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://your-cv-link.com)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:b8e27f&height=100&section=footer"/>
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=100&section=footer"/> -->
 </p>
