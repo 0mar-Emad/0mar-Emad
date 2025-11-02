@@ -1,13 +1,85 @@
-<h1 align="center">Hi, I'm Omar Emad</h1>
-<h3 align="center">CS Student | Competitive Programmer | Backend Developer</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omar-emad-5a3018304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-emad-5a3018304" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/_omar_emad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_omar_emad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_omar_emad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_omar_emad" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F0F6FC&width=600&lines=Hi%2C+I'm+Omar+👋;Backend+Developer%2C+Competitive+Programmer">
+  <img alt="Hi, I'm Omar👋 Backend Developer, Competitive Programmer" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F2328&width=600&lines=Hi%2C+I'm+Omar+👋;Backend+Developer%2C+Competitive+Programmer">
+</picture>
 
+---
+
+<h2> &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Omar Emad
+located_in: Cairo, Egypt
+current_focus: Backend Development & Competitive Programming
+education:
+  [
+    "B.Sc. in Computer Science - El Shorouk Academy",
+    "Self-Taught Developer"
+  ]
+fields_of_interest:
+  [
+    "Web Development",
+    "DevOps",
+    "RESTful APIs",
+    "System Design",
+    "Database Management",
+    "Competitive Programming",
+    "Problem Solving",
+  ]
+technical_background:
+  [
+    "Backend Developer",
+    "Java & C++ Programmer",
+    "Trainee"
+  ]
+```
+---
+
+## Skills 
+
+**Languages**  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Platforms**  
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Core Concepts**  
+REST APIs • MVC Architecture • CRUD Operations • Authentication & Authorization • Database Schema Design • OOP • Git Version Control • Algorithms • Data Structures • Problem Solving 
+
+---
+
+## Competitive Programming
+
+Solved **900+** problems on [Codeforces](https://codeforces.com/profile/_Omar_Emad) and [LeetCode](https://leetcode.com/u/_Omar_Emad/).  
+Competed in the **Egyptian Collegiate Programming Contest (ECPC)** and working toward qualifying for the **ACPC**.
+  
+---
+
+## Connect if you have something interesting to say!
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-emad-5a3018304/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eomar5245@gmail.com)
+
+## Employer ?
+[![Download CV](https://img.shields.io/badge/View%20My%20CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://your-cv-link.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
