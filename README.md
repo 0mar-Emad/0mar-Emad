@@ -24,10 +24,9 @@ education:
 fields_of_interest:
   [
     "Web Development",
-    "DevOps",
-    "RESTful APIs",
     "System Design",
     "Database Management",
+    "DevOps",
     "Competitive Programming",
     "Problem Solving",
   ]
