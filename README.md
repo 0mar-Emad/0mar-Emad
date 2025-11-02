@@ -73,14 +73,12 @@ Competed in the **Egyptian Collegiate Programming Contest (ECPC)** and working t
 ---
 
 ## Connect if you have something interesting to say!
-<div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-emad-5a3018304/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eomar5245@gmail.com)
 
 ## Employer ?
 [![Download CV](https://img.shields.io/badge/View%20My%20CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://your-cv-link.com)
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
