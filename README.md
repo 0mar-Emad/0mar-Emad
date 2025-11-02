@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Omar Emad</h1>
 <h3 align="center">CS Student | Competitive Programmer | Backend Developer</h3>
 
-- I’m currently Studying **Computer Science & AI at Shrouk Academy University**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omar-emad-5a3018304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-emad-5a3018304" height="30" width="40" /></a>
