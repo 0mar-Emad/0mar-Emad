@@ -26,7 +26,6 @@ fields_of_interest:
     "Web Development",
     "DevOps",
     "Game Development",
-    "System Design",
     "Database Management",
     "Competitive Programming",
     "Problem Solving",
