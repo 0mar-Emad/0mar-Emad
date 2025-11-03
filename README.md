@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=100&section=header"/> -->
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e003e,50:6a0dad&height=100&section=header"/> -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:b8e27f&height=100&section=header"/>
 </p>
 
@@ -82,5 +82,5 @@ Competed in the **Egyptian Collegiate Programming Contest (ECPC)** and working t
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:b8e27f&height=100&section=footer"/>
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=100&section=footer"/> -->
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e003e,50:6a0dad&height=100&section=footer"/> -->
 </p>
