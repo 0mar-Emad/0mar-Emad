@@ -75,7 +75,7 @@ Competed in the **Egyptian Collegiate Programming Contest (ECPC)** and working t
 ## Connect if you have something interesting to say!
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-emad-5a3018304/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eomar5245@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theomaremad@gmail.com)
 <!-- [![Profile Views](https://komarev.com/ghpvc/?username=0mar-Emad&color=708090&style=for-the-badge&label=Profile+Views)](https://github.com/0mar-Emad) -->
 
 ## Employer ?
