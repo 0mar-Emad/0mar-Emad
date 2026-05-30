@@ -80,7 +80,7 @@ Competed in the **Egyptian Collegiate Programming Contest (ECPC)** and working t
 
 <!-- -->
 ## Employer?
-[![View My CV](https://img.shields.io/badge/View%20My%20CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](resume.pdf)
+[![View My CV](https://img.shields.io/badge/View%20My%20CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](Resume.pdf)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:b8e27f&height=100&section=footer"/>
