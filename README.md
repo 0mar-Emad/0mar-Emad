@@ -67,7 +67,7 @@ REST APIs • MVC Architecture • CRUD Operations • Authentication & Authoriz
 
 ## Competitive Programming
 
-Solved **900+** problems on [Codeforces](https://codeforces.com/profile/OmarEmad) and [LeetCode](https://leetcode.com/u/_Omar_Emad/).  
+Solved **1000+** problems on [Codeforces](https://codeforces.com/profile/OmarEmad), [LeetCode](https://leetcode.com/u/_Omar_Emad/) and [AtCoder](https://atcoder.jp/users/OmarEmad) .  
 Competed in the **Egyptian Collegiate Programming Contest (ECPC)** and working toward qualifying for the **ACPC**.
   
 ---
