@@ -79,9 +79,8 @@ Competed in the **Egyptian Collegiate Programming Contest (ECPC)** and working t
 <!-- [![Profile Views](https://komarev.com/ghpvc/?username=0mar-Emad&color=708090&style=for-the-badge&label=Profile+Views)](https://github.com/0mar-Emad) -->
 
 <!-- -->
-## Employer ?
-[![Download CV](https://img.shields.io/badge/View%20My%20CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://your-cv-link.com) 
--->
+## Employer?
+[![View My CV](https://img.shields.io/badge/View%20My%20CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](resume.pdf)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:b8e27f&height=100&section=footer"/>
