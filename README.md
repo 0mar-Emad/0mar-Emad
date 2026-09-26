@@ -70,11 +70,17 @@ technical_background:
 
 **Core Concepts**  
 REST APIs • MVC Architecture • CRUD Operations • Authentication & Authorization • Database Schema Design • OOP • Git Version Control • Algorithms • Data Structures • Problem Solving 
-
 ---
 -->
-## Profiles
+
+<h2 align="left">Profiles</h1>
+
 [LinkedIn](https://www.linkedin.com/in/dev-omar-emad/), [Codeforces](https://codeforces.com/profile/OmarEmad), [LeetCode](https://leetcode.com/u/_Omar_Emad/), [AtCoder](https://atcoder.jp/users/OmarEmad). 
+
+
+<!-- <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5djV5MmVraW5haGRzcmZhOHJtNnlyNHA4YngyNWVuOGl2bXdubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif"  /> -->
+
+
 
 
 <!--
