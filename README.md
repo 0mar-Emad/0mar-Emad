@@ -75,7 +75,7 @@ REST APIs • MVC Architecture • CRUD Operations • Authentication & Authoriz
 
 <h2 align="left">Profiles</h1>
 
-[LinkedIn](https://www.linkedin.com/in/dev-omar-emad/), [Codeforces](https://codeforces.com/profile/OmarEmad), [LeetCode](https://leetcode.com/u/_Omar_Emad/), [AtCoder](https://atcoder.jp/users/OmarEmad). 
+[LinkedIn](https://www.linkedin.com/in/dev-omar-emad/), [Codeforces](https://codeforces.com/profile/OmarEmad), [LeetCode](https://leetcode.com/u/0mar_Emad/), [AtCoder](https://atcoder.jp/users/OmarEmad). 
 
 
 <!-- <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5djV5MmVraW5haGRzcmZhOHJtNnlyNHA4YngyNWVuOGl2bXdubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif"  /> -->
