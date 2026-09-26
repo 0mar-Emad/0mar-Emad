@@ -29,12 +29,12 @@ education:
   ]
 fields_of_interest:
   [
-    "Web Development",
-    "DevOps",
-    "Game Development",
-    "Database Management",
     "Competitive Programming",
     "Problem Solving",
+    "Web Development",
+    "DevOps",
+    "Databases",
+    "Game Development",
   ]
 technical_background:
   [
