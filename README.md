@@ -1,5 +1,6 @@
+<!--
+
 <p align="center">
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e003e,50:6a0dad&height=100&section=header"/> -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:b8e27f&height=100&section=header"/>
 </p>
 
@@ -7,15 +8,20 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F0F6FC&width=600&lines=Hi%2C+I'm+Omar+👋;Backend+Developer%2C+Competitive+Programmer.">
   <img alt="Hi, I'm Omar👋 Software Developer, Competitive Programmer." src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=1F2328&width=600&lines=Hi%2C+I'm+Omar+👋;Backend+Developer%2C+Competitive+Programmer.">
 </picture>
-
 ---
 
-<h2> &nbsp;A Little Bit About Me and My Interests</h2>
+-->
+<h1 align="left">Hey there, I'm Omar! 👋</h1>
+
+###
+
+
+<!-- <h2> &nbsp;A Little Bit About Me and My Interests</h2> -->
 
 ```yaml
 name: Omar Emad
 located_in: Cairo, Egypt
-current_focus: Backend Development & Competitive Programming
+current_focus: Software Development & Competitive Programming
 education:
   [
     "B.Sc. in Computer Science - El Shorouk Academy",
@@ -32,13 +38,15 @@ fields_of_interest:
   ]
 technical_background:
   [
-    "Backend Developer",
-    "Java & C++ Programmer",
+    "Backend",
+    "Java & C++",
     "Trainee"
   ]
 ```
----
 
+###
+
+<!--
 ## Skills 
 
 **Languages**  
@@ -64,22 +72,25 @@ technical_background:
 REST APIs • MVC Architecture • CRUD Operations • Authentication & Authorization • Database Schema Design • OOP • Git Version Control • Algorithms • Data Structures • Problem Solving 
 
 ---
+-->
+## Profiles
+[LinkedIn](https://www.linkedin.com/in/dev-omar-emad/), [Codeforces](https://codeforces.com/profile/OmarEmad), [LeetCode](https://leetcode.com/u/_Omar_Emad/), [AtCoder](https://atcoder.jp/users/OmarEmad). 
 
-## Competitive Programming
-[Codeforces](https://codeforces.com/profile/OmarEmad), [LeetCode](https://leetcode.com/u/_Omar_Emad/), [AtCoder](https://atcoder.jp/users/OmarEmad) .  
-  
----
 
+<!--
 ## Connect if you have something interesting to say!
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-emad-5a3018304/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theomaremad@gmail.com)
-<!-- [![Profile Views](https://komarev.com/ghpvc/?username=0mar-Emad&color=708090&style=for-the-badge&label=Profile+Views)](https://github.com/0mar-Emad) -->
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=0mar-Emad&color=708090&style=for-the-badge&label=Profile+Views)](https://github.com/0mar-Emad) 
+-->
 
-<!-- -->
+<!-- 
 [![View My CV](https://img.shields.io/badge/View%20My%20CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](Resume.pdf)
+-->
 
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:b8e27f&height=100&section=footer"/>
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e003e,50:6a0dad&height=100&section=footer"/> -->
 </p>
+-->
