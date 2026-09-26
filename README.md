@@ -5,7 +5,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F0F6FC&width=600&lines=Hi%2C+I'm+Omar+👋;Backend+Developer%2C+Competitive+Programmer.">
-  <img alt="Hi, I'm Omar👋 Backend Developer, Competitive Programmer." src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=1F2328&width=600&lines=Hi%2C+I'm+Omar+👋;Backend+Developer%2C+Competitive+Programmer.">
+  <img alt="Hi, I'm Omar👋 Software Developer, Competitive Programmer." src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=1F2328&width=600&lines=Hi%2C+I'm+Omar+👋;Backend+Developer%2C+Competitive+Programmer.">
 </picture>
 
 ---
@@ -66,9 +66,7 @@ REST APIs • MVC Architecture • CRUD Operations • Authentication & Authoriz
 ---
 
 ## Competitive Programming
-
-Solved **1000+** problems on [Codeforces](https://codeforces.com/profile/OmarEmad), [LeetCode](https://leetcode.com/u/_Omar_Emad/) and [AtCoder](https://atcoder.jp/users/OmarEmad) .  
-Competed in the **Egyptian Collegiate Programming Contest (ECPC)** and working toward qualifying for the **ACPC**.
+[Codeforces](https://codeforces.com/profile/OmarEmad), [LeetCode](https://leetcode.com/u/_Omar_Emad/), [AtCoder](https://atcoder.jp/users/OmarEmad) .  
   
 ---
 
